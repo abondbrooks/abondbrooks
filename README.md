@@ -1,4 +1,4 @@
-<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks">Programmer</a>, <a href="https://www.linkedin.com/in/abondbrooks/">.NET Software Engineer Professional</a>
+<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> Cloud Engineering Professional</a>
 
 <h2>👩🏿‍💻 Software Development Projects:</h2>
 
