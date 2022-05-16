@@ -1,5 +1,7 @@
 <h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> Cloud Engineering Professional</a>
 
+...
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AZanaeBondBrooks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
