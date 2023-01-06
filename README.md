@@ -1,4 +1,4 @@
-<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/">Software Engineer</a>
+<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> WPF Developer</a>
 
 ....
 
