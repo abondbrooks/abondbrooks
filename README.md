@@ -1,4 +1,5 @@
-<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> WPF Developer</a>
+<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> .NET/C# WPF Developer</a>
+<p>"Looking for opportunities to expand my kills as a developer."</p>
 
 ....
 
