@@ -1,4 +1,4 @@
-<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> .Net C# Developer</a>
+<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> Full Stack .Net C# Developer</a>
 <p>"Looking for opportunities to expand my skills as a developer."</p>
 
 ....
