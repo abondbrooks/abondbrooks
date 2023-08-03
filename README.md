@@ -1,5 +1,5 @@
-<h1>Hi, I'm AZanae! <br/><a href="https://github.com/abondbrooks"><a href="https://www.linkedin.com/in/abondbrooks/"> Senior Software Developer</a>
-<p>"Looking for opportunities to expand my skills as a .Net/C# Full Stack Developer"</p>
+<h1>Hi, I'm AZanae! <br/><a>.Net Developer</a>
+<p>"Looking for opportunities to expand my skills as a .Net Developer"</p>
 
 ....
 
