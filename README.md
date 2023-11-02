@@ -1,4 +1,4 @@
-<h1>Hi, I'm AZanae! <br/> .Net Developer </h1>
+<h1>Hi, I'm AZanae! <br/> ...</h1>
 <p>"Looking for opportunities to expand my skills as a ...."</p>
 
 ....
