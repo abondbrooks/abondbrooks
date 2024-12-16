@@ -1,5 +1,5 @@
 <h1>Hi, I'm AZanae! <br/> ...</h1>
-<p>"Looking for opportunities to expand my skills as a ...."</p>
+<p>"Building an AI Companion using AI"</p>
 
 ....
 
