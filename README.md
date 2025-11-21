@@ -1,5 +1,5 @@
 <h1>Hi, I'm AZanae! <br/> ...</h1>
-<p>"Building an AI Companion using AI"</p>
+<p>"Creating nursing study materials"</p>
 
 ....
 
